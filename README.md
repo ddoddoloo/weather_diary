@@ -1,5 +1,5 @@
 # weather Diary project
-Description : 날시 데이터 저장 및 일기 쓰기 백엔드 구현(클론 코딩)
+Description : 날시 데이터 저장 및 일기 쓰기 백엔드 구현
 
 1. 최종 구현 API 리스트
 ✅ POST / create / diary
